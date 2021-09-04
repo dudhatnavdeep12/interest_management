@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713672316938",
+    "project_id": "interest-calcy",
+    "storage_bucket": "interest-calcy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713672316938:android:45b4a6958aaf65d1a827f3",
+        "android_client_info": {
+          "package_name": "com.example.interest_cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713672316938-1qncaig0iaef6t1nfbi61nrotum0kco3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interest_cal",
+            "certificate_hash": "8c06d0b5cba5089911275df9337c3497924b617a"
+          }
+        },
+        {
+          "client_id": "713672316938-rc83i8dapo0m2futng1tavvopbjhcmq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOx9n2MgAhgnDFtYK7g8YD4UZZvMDOfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713672316938-rc83i8dapo0m2futng1tavvopbjhcmq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
